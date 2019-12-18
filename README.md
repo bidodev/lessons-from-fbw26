@@ -20,7 +20,7 @@ Our slack work space
 1. Set command aliases  
    [Set aliases Ubuntu/Debian Linux](https://www.hostingadvice.com/how-to/set-command-aliases-linuxubuntudebian/)
 
-## Terminal
+## CLI (command line interface)
 
 1. A Cheat Sheet with the most common terminal commands.
 
@@ -28,7 +28,7 @@ Our slack work space
 
    - [CLI Cheat Sheet](./terminal/CLI-Cheat-Sheet.pdf)
 
-1. History of CLI  
+1. History of CLI  (command line interface)
    [Video](https://www.youtube.com/watch?v=4RPtJ9UyHS0&feature=youtu.be)
 
 ## Markdown
