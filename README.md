@@ -84,7 +84,7 @@ If you have cloned repository from someone and it would update often and you wan
 ```
 $ git remote rename origin upstream
 $ git remote add origin https://github.com/YOUR-ACCOUNT/YOUR_REPO
-# or
+> or
 git remote add origin git@github.com:YOUR-ACCOUNT/YOUR-REPO.git
 ```
 
