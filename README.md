@@ -19,3 +19,4 @@ Then, whenever you want to get changes from upstream, you can do:
 ```
 $ git fetch upstream
 ```
+new line
