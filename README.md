@@ -99,7 +99,7 @@ However if you want to pull from the original repo you will use:
 ```
 $ git pull upstream master
 ```
-https://github.com/FBw-26/lessons/blob/master/
+
 ## The Internet
 
 1. Web Development slides.  
