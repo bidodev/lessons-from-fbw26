@@ -2,6 +2,8 @@
 
 In this repository you will find (PDF, documentation links, articles and more) has been shared during our learning period
 
+**[live-coding](https://github.com/FBw-26/live-coding) ** keep your self updated 💪🏻
+
 ## Slack
 
 Our slack work space
