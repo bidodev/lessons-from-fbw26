@@ -112,3 +112,15 @@ $ git pull upstream master
 
 1. History of the Internet  
    [Internet Society](https://www.internetsociety.org/internet/history-internet/)
+   
+## JavaScript 
+
+1. JavaScript slides.
+   [Intro](https://github.com/hnsreeny/JavaScript/JavaScript.pdf)
+   
+1. Hoisting
+[understanding Hoisting](https://scotch.io/tutorials/understanding-hoisting-in-javascript)
+
+1. ECMAScript
+[Es6](http://es6-features.org/#Constants)
+
