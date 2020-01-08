@@ -116,11 +116,25 @@ $ git pull upstream master
 ## JavaScript 
 
 1. JavaScript slides.
-   [Intro](https://github.com/hnsreeny/JavaScript/JavaScript.pdf)
-   
+   [Intro](https://github.com/hnsreeny/javaScript/blob/master/JavaScript.pdf)
+
+1. What is JS
+[Mozilla](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
+
+1. Js Info
+[Js 101](https://javascript.info/)
+
+1. Free E-book
+[You-Dont-Know](https://github.com/getify/You-Dont-Know-JS)
+
 1. Hoisting
 [understanding Hoisting](https://scotch.io/tutorials/understanding-hoisting-in-javascript)
 
 1. ECMAScript
 [Es6](http://es6-features.org/#Constants)
+
+1. Math
+[Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math)
+
+1. 
 
