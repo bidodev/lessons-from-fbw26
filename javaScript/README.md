@@ -6,5 +6,7 @@
 1. [Hoisting in Js](https://gomakethings.com/function-expressions-vs-function-declarations/)
 1. [Falsy Truthy in Js](https://developer.mozilla.org/en-US/docs/Glossary/Falsy)
 1. [Call stack](https://www.youtube.com/watch?v=W8AeMrVtFLY)
-1. []()
-1. []()
+1. [Operator precedence](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
+1. [increment && decrement](https://codeburst.io/javascript-increment-and-decrement-8c223858d5ed)
+
+
