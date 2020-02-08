@@ -8,5 +8,11 @@
 1. [Call stack](https://www.youtube.com/watch?v=W8AeMrVtFLY)
 1. [Operator precedence](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
 1. [increment && decrement](https://codeburst.io/javascript-increment-and-decrement-8c223858d5ed)
-
-
+1. [Self-invoking Function or Immediately Invoked Function Expressions](https://blog.mgechev.com/2012/08/29/self-invoking-functions-in-javascript-or-immediately-invoked-function-expression/)
+1. [IIFE freeCodeCamp video](https://www.youtube.com/watch?v=3cbiZV4H22c)
+1. [Where not to use arrow function](https://wesbos.com/arrow-function-no-no/)
+1. [How to Deep Copy Objects and Arrays in JavaScript](https://medium.com/javascript-in-plain-english/how-to-deep-copy-objects-and-arrays-in-javascript-7c911359b089)
+1. [JavaScript Reference and Copy Variables](https://hackernoon.com/javascript-reference-and-copy-variables-b0103074fdf0)
+1. []()
+1. []()
+1. []()
