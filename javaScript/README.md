@@ -14,5 +14,5 @@
 1. [How to Deep Copy Objects and Arrays in JavaScript](https://medium.com/javascript-in-plain-english/how-to-deep-copy-objects-and-arrays-in-javascript-7c911359b089)
 1. [JavaScript Reference and Copy Variables](https://hackernoon.com/javascript-reference-and-copy-variables-b0103074fdf0)
 1. [new keyWord in Js](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new)
-1. []()
+1. [destructuring in functions](https://simonsmith.io/destructuring-objects-as-function-parameters-in-es6)
 1. []()
