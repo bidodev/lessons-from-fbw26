@@ -116,7 +116,7 @@ $ git pull upstream master
    [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 
 1. JavaScript more great recourses  
-   [JavaScript](https://github.com/FBw-26/lessons/blob/master/javaScript/README.md)
+   [JavaScript](javaScript/README.md)
 
 ## HTML & CSS
 
