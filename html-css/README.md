@@ -1,6 +1,11 @@
 ##HTML & CSS:
 
 1. [HTML Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+1. [Pseudo-classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
+1. [Pseudo-elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
+1. [nth-child](https://css-tricks.com/how-nth-child-works/)
+1. [learnlayout](http://learnlayout.com/toc.html)
+1. []()
 1. []()
 1. []()
 1. []()
